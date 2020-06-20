@@ -27,7 +27,7 @@ public class HelloController {
     @RequestMapping(value = "/hello" , method= RequestMethod.GET)
     @ResponseBody
     public String hello() {
-        return "Hello World";
+        return "Hello World From IntelliJ";
     }
 
     @RequestMapping(value = "/authenticate", method= RequestMethod.POST)
