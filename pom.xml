@@ -92,7 +92,7 @@
 	</dependencies>
 <!-- name was changed to archa -->
 	<build>
-		<finalName>archa</finalName>
+		<finalName>arch</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>

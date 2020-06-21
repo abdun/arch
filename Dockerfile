@@ -1,4 +1,4 @@
 From openjdk:8
 Expose 8080
-Add target/archa.jar archa.jar
-ENTRYPOINT ["java", "-jar", "archa.jar"]
+Add target/arch.jar arch.jar
+ENTRYPOINT ["java", "-jar", "arch.jar"]
