@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.techno</groupId>
 	<artifactId>archa</artifactId>
-	<version>0.0.1-snapshot</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>archa</name>
 	<description>Application project for Spring Boot</description>
 	<properties>
@@ -92,7 +92,7 @@
 	</dependencies>
 <!-- name was changed to archa -->
 	<build>
-		<finalName>archa-0.0.1-snapshot</finalName>
+		<finalName>archa</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
