@@ -13,7 +13,6 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>archa</name>
 	<description>Application project for Spring Boot</description>
-
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
@@ -85,15 +84,15 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
-
 <!--		<dependency>-->
 <!--			<groupId>com.datastax.cassandra</groupId>-->
 <!--			<artifactId>cassandra-driver-core</artifactId>-->
 <!--			<version>3.0.1</version>-->
 <!--		</dependency>-->
 	</dependencies>
-
+<!-- name was changed to archa -->
 	<build>
+		<finalName>archa</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
@@ -101,5 +100,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
