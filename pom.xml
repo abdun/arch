@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.techno</groupId>
 	<artifactId>archa</artifactId>
-	<version>1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>archa</name>
 	<description>Application project for Spring Boot</description>
 	<properties>
